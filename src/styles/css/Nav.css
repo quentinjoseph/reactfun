@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5 {
+  margin: 0; }
+
+.nav {
+  text-align: center;
+  background-color: black;
+  color: white;
+  transition: .5s; }
+  .nav h1 {
+    opacity: 0;
+    transition: .25s;
+    padding: 1rem 0; }
+
+.orange {
+  background-color: orange; }
+
+/*# sourceMappingURL=Nav.css.map */
